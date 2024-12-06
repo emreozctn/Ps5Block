@@ -1,2 +1,4 @@
-0.0.0.0 115.57.154.34.bc.googleusercontent.com
 0.0.0.0 26.4.17.34.bc.googleusercontent.com
+0.0.0.0 115.57.154.34.bc.googleusercontent.com
+||26.4.17.34.bc.googleusercontent.com^
+||115.57.154.34.bc.googleusercontent.com^
