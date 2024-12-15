@@ -2,3 +2,7 @@
 0.0.0.0 115.57.154.34.bc.googleusercontent.com
 26.4.17.34.bc.googleusercontent.com
 115.57.154.34.bc.googleusercontent.com
+0.0.0.0 34.17.4.26.bc.googleusercontent.com
+0.0.0.0 34.116.133.181.bc.googleusercontent.com
+34.17.4.26.bc.googleusercontent.com
+34.116.133.181.bc.googleusercontent.com
